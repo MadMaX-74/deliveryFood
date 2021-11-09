@@ -1,0 +1,18 @@
+{
+  "name": "indexfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "swiper": "^7.2.0",
+    "webpack": "^5.62.1",
+    "webpack-cli": "^4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development"
+  },
+  "author": "madmax",
+  "license": "ISC"
+}
